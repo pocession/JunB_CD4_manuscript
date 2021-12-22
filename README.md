@@ -2,9 +2,9 @@
 
 ## 20121224
 1. Fig. 1. 
-> - IgG staining result will put in supplementary figures.
-> - The gating should be elevated and same for both transferred and recipient.
-> - In main figures,  IgG gating should be dropped out. 
+> - ~~IgG staining result will put in supplementary figures.~~
+> - ~~The gating should be elevated and same for both transferred and recipient.~~
+> - ~~In main figures,  IgG gating should be dropped out.~~ 
 > 
 2.	Fig. 2.
 > - ~~CFSE will be removed.~~
