@@ -7,8 +7,8 @@
 > - In main figures,  IgG gating should be dropped out. 
 > 
 2.	Fig. 2.
-> - ~~CFSE will be removed.
-> - IL-4 bar will be added.~~
+> - ~~CFSE will be removed.~~
+> - IL-4 bar will be added.
 > 
 3.	Fig. 3.
 > - Annexinv
