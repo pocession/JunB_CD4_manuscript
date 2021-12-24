@@ -1,6 +1,36 @@
 # JunB CD4 manucript revision memo
 
-## 20121224
+## 20211224
+1. Fig. 1. 
+> - Drop out CD44 data. 
+> - Make MFI for JunB CD44 hi.
+
+2. Fig. 2.
+> - Arrange the figure horizontally. (B,C,D; E,F,G)
+> - Delete p value from IL13 chart.
+> - Pick another KO sample to represent the %IFNG (~30%).
+
+3. Fig. 3.
+> - Overlap WT and KO histogram (Both CFSE and BIM).
+> - Bar graphs only show MFI (BIM).
+> - Drop out %BIM bar graph.
+>
+
+4. Fig. 4.
+> - In vitro cell death.
+>
+
+5. Fig. 5.
+> - In vitro CFSE and In vitro sea horse.
+>
+
+6. Fig. 6.
+> - Th2 is optional.
+> - If JunB deletion does not affect IRF4 binding, we should put cut-and-run data to show JunB deletion affects epigenetical structure. 
+
+
+
+## 20211217
 1. Fig. 1. 
 > - ~~IgG staining result will put in supplementary figures.~~
 > - ~~The gating should be elevated and same for both transferred and recipient.~~
@@ -29,7 +59,7 @@
 > - Confirm the calculation method of % enrichment.
 > 
 
-## 20211217
+## 20211210
 1. Fig. 1.  
 > - IgG staining result will put in supplementary figures.
 > - The gating should be elevated and same for both transferred and recipient.
