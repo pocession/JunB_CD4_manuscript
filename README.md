@@ -2,22 +2,22 @@
 
 ## 20211224
 1. Fig. 1. 
-> - Drop out CD44 data. 
+> - ~~Drop out CD44 data.~~
 > - Make MFI for JunB CD44 hi.
 
 2. Fig. 2.
-> - Arrange the figure horizontally. (B,C,D; E,F,G)
-> - Delete p value from IL13 chart.
+> - ~~Arrange the figure horizontally. (B,C,D; E,F,G)~~
+> - ~~Delete p value from IL13 chart.~~
 > - Pick another KO sample to represent the %IFNG (~30%).
 
 3. Fig. 3.
 > - Overlap WT and KO histogram (Both CFSE and BIM).
 > - Bar graphs only show MFI (BIM).
-> - Drop out %BIM bar graph.
+> - ~~Drop out %BIM bar graph.~~
 >
 
 4. Fig. 4.
-> - In vitro cell death.
+> - ~~In vitro cell death.~~
 >
 
 5. Fig. 5.
