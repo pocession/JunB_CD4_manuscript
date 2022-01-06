@@ -27,7 +27,7 @@
 > - manuscript/result.
 
 6. Fig. 7. 
-> - If pathway analysis can show apoptosis pathway is enriched in all cell types, then keep it.
+> - ~~If pathway analysis can show apoptosis pathway is enriched in all cell types, then keep it.~~
 > - manuscript/result.
 
 8. Fig. 6.
