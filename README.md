@@ -9,7 +9,7 @@
 2. Fig. 2.
 > - ~~Arrange the figure horizontally. (B,C,D; E,F,G)~~
 > - ~~Delete p value from IL13 chart.~~
-> - ~~Pick another KO sample to represent the %IFNG (~30%). ~~
+> - ~~Pick another KO sample to represent the %IFNG (30%).~~
 > - manuscript/result.
 
 3. Fig. 3.
