@@ -23,7 +23,9 @@
 > - manuscript/result.
 
 5. Fig. 5.
-> - In vitro CFSE and In vitro sea horse.
+> - ~~In vitro CFSE and In vitro sea horse.~~
+> - Th1/Th17 CFSE MFI.
+> - Th2 CFSE flow/MFI.
 > - manuscript/result.
 
 6. Fig. 6. 
