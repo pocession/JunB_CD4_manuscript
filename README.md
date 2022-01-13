@@ -3,7 +3,7 @@
 ## 20211224
 1. Fig. 1. 
 > - ~~Drop out CD44 data.~~
-> - ~~Make MFI for JunB CD44 hi. (Done, but need prism to make bar graph) ~~
+> - ~~Make MFI for JunB CD44 hi. (Done, but need prism to make bar graph) 
 > - ~~manuscript/result.~~
 
 2. Fig. 2.
