@@ -1,5 +1,26 @@
 # JunB CD4 manucript revision memo
 
+## 20220114
+1. Fig. 1. Done.
+
+2. Fig. 2.
+> - align bar charts (B,E; C,F)
+
+3. Fig. 3. 
+> - MFI of Bim
+
+4. Fig. 4. Done
+
+5. Fig. 5. 
+> - y-axis of CFSE shoule be shorten. (short than sea horse)
+
+6. Fig. 6. Done
+
+7. Fig. 7. Order more primers.
+> - The region upstream -9kb (Both BATF and IRF4 binds)
+> - The region downstream 3UTR. (JunB, BATF and IRF4 bind)
+> - Ifng locus. Check some upstream regions.
+
 ## 20211224
 1. Fig. 1. 
 > - ~~Drop out CD44 data.~~
